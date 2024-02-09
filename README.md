@@ -6,7 +6,8 @@
 - [2. 배열 문제](https://github.com/etesongg/javascript-study/blob/main/1-2.%20%EB%B0%B0%EC%97%B4%20%EB%AC%B8%EC%A0%9C.md)
 - [3. if문 문제](https://github.com/etesongg/javascript-study/blob/main/1-3.%20if%EB%AC%B8%20%EB%AC%B8%EC%A0%9C.md)
 - [4. 반복문 문제](https://github.com/etesongg/javascript-study/blob/main/1-4.%20%EB%B0%98%EB%B3%B5%EB%AC%B8%20%EB%AC%B8%EC%A0%9C.md)
-- 5. 함수 문제
+- [5. 함수 문제](https://github.com/etesongg/javascript-study/blob/main/1-5.%20%ED%95%A8%EC%88%98%20%EB%AC%B8%EC%A0%9C.md)
+- 6. 도메인 하나 만들어보기
 
 <br/>
 
