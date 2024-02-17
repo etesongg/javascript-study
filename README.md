@@ -15,8 +15,10 @@
 ## 2주. 미니 프로젝트
 - [1. 숫자 맞추기 게임](https://github.com/etesongg/number-guess-game)
     - [Up-Down GAME](https://number-guess-gamebysone.netlify.app/)
-- [2 ~ 4. 할일 앱 만들기](https://github.com/etesongg/todoList)
+- [2 ~ 5. 할일 앱 만들기](https://github.com/etesongg/todoList)
     - [todo List](https://app.netlify.com/sites/todolist-bysong/overview)
+- 6. ES6 자바스크립트 최신 문법 
+    - ES6 문제
 
 <br/>
 
