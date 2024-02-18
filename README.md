@@ -17,8 +17,10 @@
     - [Up-Down GAME](https://number-guess-gamebysone.netlify.app/)
 - [2 ~ 5. 할일 앱 만들기](https://github.com/etesongg/todoList)
     - [todo List](https://app.netlify.com/sites/todolist-bysong/overview)
-- 6. ES6 자바스크립트 최신 문법 
-    - ES6 문제
+- [6. ES6 자바스크립트 최신 문법](https://github.com/etesongg/javascript-study/blob/main/2-6.%20es6%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%B5%9C%EC%8B%A0%20%EB%AC%B8%EB%B2%95.md)
+    - [ES6 문제](https://github.com/etesongg/javascript-study/blob/main/2-6.%20es6%20%EB%AC%B8%EC%A0%9C.md)
+- [7. 자주 쓰는 배열 함수](https://github.com/etesongg/javascript-study/blob/main/2-7.%20%EB%B0%B0%EC%97%B4%20%ED%95%A8%EC%88%98.md)
+    - [배열 함수 문제](https://github.com/etesongg/javascript-study/blob/main/2-7.%20%EB%B0%B0%EC%97%B4%20%ED%95%A8%EC%88%98%20%EB%AC%B8%EC%A0%9C.md)
 
 <br/>
 
