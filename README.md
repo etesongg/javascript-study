@@ -24,4 +24,5 @@
 - [1 ~ 7. news api를 활용하여 뉴스 타임즈 만들기](https://github.com/etesongg/news-times)
 
 ## 4주. 팀 프로젝트
-- [독서의 민족](https://github.com/etesongg/js-library)
+- 1기 [독서의 민족](https://github.com/etesongg/js-library)
+- 2기 [오늘의 숲길](https://github.com/etesongg/Forest_Road_By_Javascript)
